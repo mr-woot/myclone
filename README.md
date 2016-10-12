@@ -17,4 +17,5 @@ the cloned repository.
 
 ## Usage:
 - Open terminal.
-- Type ``myclone <repo name only> <directory name>``
+- Type ``myclone <git-username> <repo name only> <directory name>``
+- If want to enter only repo name and dir name, follow the script.sh comments.
